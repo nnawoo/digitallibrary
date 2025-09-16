@@ -17,7 +17,7 @@ Berikut ini adalah Koleksi yang dimiliki
 11. [MIFTAHUL JANNAH (Panduan Jalan Menuju Surga)](ebook/MIFTAHUL_JANNAH_17_01_2021.pdf) - Muhammad bin Qutbuddin Izniki (2019)  
 
 ---  
-[Halaman 1](webti/halaman1.html)
+👻[Halaman 1](webti/halaman1.html)
 
 Powered by Github Pages
 
