@@ -24,6 +24,8 @@ Berikut ini adalah Koleksi yang dimiliki
 👻[Halaman 5](webti/halaman5.html)
 👻[Halaman 6](webti/halaman6.html)
 👻[Halaman 7](webti/halaman7.html)
+<a href="https://nnawoo.github.io/digitallibrary/">Index</a>
+
 
 Powered by Github Pages
 
